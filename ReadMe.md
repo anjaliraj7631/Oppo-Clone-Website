@@ -24,17 +24,17 @@ Today, OPPO produces mobile phones (including Reno series), headphones, watches,
 
 ## Features
 
--Search: Search for specific device by name or category.
+- Search: Search for specific device by name or category.
 
--Contact: Get in touch with us through the contact form for inquiries.
+- Contact: Get in touch with us through the contact form for inquiries.
 
 ## Tech Stack
 
-- [HTML]
+- HTML
 
-- [CSS]
+- CSS
  
-- [Javascript- DOM Manipulation, Local Storage]
+- Javascript- DOM Manipulation, Local Storage
 
 ## Demo
 <img src="./images/Screenshot 2023-10-15 162803.png"  width="800"  height="400"/>
